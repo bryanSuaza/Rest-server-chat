@@ -1,3 +1,9 @@
-# webserver + Restserver + socket + chat basico
+# Webserver + Restserver + Socket + Chat basico
 
-recuerde que debe ejecutar npm install para reconstruir los modulos de node
+## Proyecto construido con NodeJs
+
+Recuerda ejecutar 
+```
+npm install
+```
+para reconstruir los modulos de node
